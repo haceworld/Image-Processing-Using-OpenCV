@@ -3,8 +3,7 @@
  
  This repository contains codes that addresses the basic concepts of image processing using OpenCV library. The following image processing tasks are;
 reading images, Saving image, Capturing video
-Loading videos
-Convert color images to grayscale
+Loading videos, convert color images to grayscale
 Saving real-time video
 Retrieving properties from images and video
 Creating shapes and writing text on images and video
